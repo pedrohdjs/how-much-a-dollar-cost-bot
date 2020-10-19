@@ -12,6 +12,7 @@
   "dependencies": {
     "jimp": "^0.16.1",
     "request": "^2.88.2",
-    "request-promise": "^4.2.6"
+    "request-promise": "^4.2.6",
+    "twit": "^2.2.11"
   }
 }
